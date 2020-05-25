@@ -6,7 +6,7 @@ Zulassungsaufgabe VIS
 
 
 Da Configure your Wardrobe als zu schwer empfunden wurde, wird hier noch eine alternative Zulassungsaufgabe angeboten:
-Schreiben Sie ein Program, welches das Alphabet in Form eines Diamanten bis zum gegebenen Buchstaben ausgibt.
+Schreiben Sie ein Programm, welches das Alphabet in Form eines Diamanten bis zum gegebenen Buchstaben ausgibt.
 Falls 'C' der gesuchte Buchstabe wäre, sähe der Diamand wie folgt aus:
 --A--
 -B-B-
@@ -25,3 +25,13 @@ Gehen Sie bei der Lösung des Problems wie folgt vor:
 versuchen sie die in der Vorlesung vorgstellten Vorgehensweise Test Driven Development (red-green-refactor) anzuwenden.
 git push
 tragen sie im Bereitstehenden Text-Feld ihren Link zu ihrem git-repository ein.
+
+- - - - - - - - 
+Anleitung: 
+
+Gebe in den Terminal ein:
+node index.js (+gewünschter Buchstabe)
+
+Beispiel:
+
+node index.js d
